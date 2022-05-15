@@ -1,6 +1,6 @@
 # 使用CNN(+SPP結構)分辨葡萄藤葉子圖片判斷相關疾病
 
-資料來源：kaggle Grapevine Disease Images
+資料來源：kaggle - Grapevine Disease Images
 
 https://www.kaggle.com/datasets/piyushmishra1999/plantvillage-grape
 
